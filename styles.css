@@ -10,14 +10,16 @@ a {
     color: grey;
 }
 
-.menu {
-    border-style: solid;
+article {
+    border-style: dashed;
     border-color: gray;
+    padding: 20px 20px;
+    margin: 20px 0px;
 }
 
 div ul {
     list-style-type: none;
-    text-align: left;
+    text-align: center;
 }
 
 div ul li {
@@ -54,6 +56,10 @@ img {
     height: 100px;
 }
 
+#menu {
+    border-style: dashed;
+    border-color: gray;
+}
 .recipe {
     color: tomato;
 }
