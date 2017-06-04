@@ -1,0 +1,59 @@
+body {
+    margin: 30px 100px 30px 100px;
+    padding: 20px 20px 20px 20px;
+    border-style: solid;
+    border-color: gray;
+    font-family: sans-serif;
+}
+
+a {
+    color: grey;
+}
+
+.menu {
+    border-style: solid;
+    border-color: gray;
+}
+
+div ul {
+    list-style-type: none;
+    text-align: left;
+}
+
+div ul li {
+    display: inline;
+    padding: 10px 10px;
+    background-color: tomato;
+}
+
+div ul li:hover {
+    background-color: grey;
+}
+
+div ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+
+img {
+    height: 100px;
+
+}
+
+#title {
+    color: tomato;
+    font-size: 50px;
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+#jarpic {
+    float: left;
+    height: 100px;
+}
+
+.recipe {
+    color: tomato;
+}
